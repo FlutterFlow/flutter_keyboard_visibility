@@ -3,9 +3,9 @@
 # Run `pod lib lint flutter_keyboard_visibility_temp_fork.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_keyboard_visibility_temp_fork'
+  s.name             = 'flutter_keyboard_visibility'
   s.version          = '0.0.1'
-  s.summary          = 'flutter_keyboard_visibility_temp_fork'
+  s.summary          = 'flutter_keyboard_visibility'
   s.description      = <<-DESC
 A temporary fork of the flutter_keyboard_visibility plugin
                        DESC
