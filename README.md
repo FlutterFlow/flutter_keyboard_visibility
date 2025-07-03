@@ -22,7 +22,7 @@ This fork aim to solve the following issues:
 Your existing code that use `package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart` should work by replacing it with:
 
 ```dart
-import 'package:flutter_keyboard_visibility_temp_fork/flutter_keyboard_visibility_temp_fork.dart';
+import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
 ```
 
 Once you remove `flutter_keyboard_visibility` from your `pubspec.yaml` and add `flutter_keyboard_visibility_temp_fork` instead.
