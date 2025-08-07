@@ -30,12 +30,12 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.jrai.flutter_keyboard_visibility_temp_fork
-        pluginClass: FlutterKeyboardVisibilityTempForkPlugin
+        package: com.jrai.flutter_keyboard_visibility
+        pluginClass: FlutterKeyboardVisibilityPlugin
       ios:
-        pluginClass: FlutterKeyboardVisibilityTempForkPlugin
+        pluginClass: FlutterKeyboardVisibilityPlugin
       web:
-        pluginClass: FlutterKeyboardVisibilityTempForkWeb
+        pluginClass: FlutterKeyboardVisibilityWeb
         fileName: flutter_keyboard_visibility_web.dart
       macos:
         default_package: flutter_keyboard_visibility_macos
